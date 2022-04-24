@@ -1,0 +1,36 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.full-website{
+    text-align:center;
+    width:1024px;
+    margin:20px auto;
+}
+.menu{
+    background:#81b2f3;
+    padding:15px;
+    font-family:sans-serif;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.banner{
+    max-width:100%;
+}
+.continer{
+    background:#3498db;
+    padding:15px;
+}
+.footer{
+    background:rgb(65,128,184);
+    padding:15px;
+}
+    .footer-bottom{
+    background: darkcyan;
+    padding:15px;
+}
+img{
+    object-fit:fill;
+    width:100%;
+    margin:-5px;
+}
